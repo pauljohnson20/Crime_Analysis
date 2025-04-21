@@ -44,7 +44,7 @@ Crime Dataset
   5. Crime Rate by Weekday
   6. Crime Distribution by Country
   7. Crime Rate by Type of crime
-  8. Interactive dashboard [View Dashboard](#https://github.com/user-attachments/assets/144d35b9-c7f3-4a9f-a002-0d81c57362f4)
+  8. Interactive dashboard [View Dashboard](https://github.com/user-attachments/assets/144d35b9-c7f3-4a9f-a002-0d81c57362f4)
 
 ### Data Cleaning:
   - In Excel: Data was cleaned by removing unwanted columns. Additionally, columns were formatted to ensure consistent date/time formats and data types.
