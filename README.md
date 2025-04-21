@@ -1,5 +1,22 @@
 # Crime Analysis Using Power BI
 
+### Table of Contents:
+- [Project Overview](#project-overview)
+- [Business Objective](#business-objective)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Understanding](#data-understanding)
+- [KPIs](#kpis)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis-eda)
+- [Power BI Optimization](#power-bi-optimization)
+- [Data Analysis (Power BI Visuals)](#data-analysis-power-bi-visuals)
+- [Project Insights](#project-insights)
+- [Recommendations](#recommendations)
+- [How to Use This Report](#how-to-use-this-report)
+- [Contact](#contact)
+
+
 ### Project Overview:
 The Crime Analysis Dashboard visualizes crime data, providing insights into crime trends, types, and resolutions. The dashboard includes a variety of visuals to track total crimes, resolved/unresolved crimes, and crime distribution over time and geography. Interactive drill-throughs offer detailed analysis of crime types and time patterns.
 
@@ -27,7 +44,7 @@ Crime Dataset
   5. Crime Rate by Weekday
   6. Crime Distribution by Country
   7. Crime Rate by Type of crime
-  8. Interactive dashboard
+  8. Interactive dashboard [View Dashboard](#data-analysis-power-bi-visuals)
 
 ### Data Cleaning:
   - In Excel: Data was cleaned by removing unwanted columns. Additionally, columns were formatted to ensure consistent date/time formats and data types.
@@ -60,6 +77,14 @@ To improve the performance and efficiency of my Power BI report, I applied the f
   - Bar Chart: Compares total crimes by year.
   - Bar Chart (Time-based): Displays total crimes by time, with 8 bars representing 3-hour intervals.
 
+Snap of Crime Analysis Dashboard
+
+![Image](https://github.com/user-attachments/assets/144d35b9-c7f3-4a9f-a002-0d81c57362f4)
+
+Snap of Drill Through
+
+![Image](https://github.com/user-attachments/assets/355acda0-f9cd-4352-93e4-089ff410f53e)
+
 ### Project Insights:
   - **Concentration in Specific Crime Types:** A large proportion of crimes are concentrated in Anti-Social Behaviour and Violence and Sexual Offences, suggesting that public awareness campaigns, community engagement, and specialized law enforcement strategies could reduce incidents in these categories.
   - **Seasonal Trends:** The September and October spike indicates potential factors driving crime during these months. This could be due to local events, cultural holidays, or even environmental factors such as weather.
@@ -71,3 +96,16 @@ To improve the performance and efficiency of my Power BI report, I applied the f
   - Night-Time Policing: Boost patrols, use surveillance tech, and offer late-night community support (e.g., safe zones) from 9 PM to 3 AM.
   - Data-Driven Strategies: Regularly analyze crime trends to adjust prevention measures based on patterns and external factors.
   - Community Collaboration: Work with local businesses, schools, and organizations to address root causes and engage at-risk individuals early.
+
+### How to Use This Report: 
+  - Use Filters: Apply filters for Crime Type and Country to narrow down the data for targeted analysis based on location and crime category.
+  - Track Key Metrics: Monitor high-level KPIs such as Total Crime, Resolved Crime, and Unresolved Crime to assess overall crime activity and resolution performance.
+  - Explore Crime Patterns: Use the heatmap matrix (Weekday vs. Month) to identify patterns in crime occurrence across different days and months.
+  - Drill Through Time-Based Trends: Click on specific time slots in the 3-hour interval bar chart to drill through and analyze crime types and frequency during that period.
+  - Analyze Trends and Changes: Review the monthly line chart for overall crime trends and use the % change column in the table to compare current vs. previous month performance.
+
+### Contact:
+For further information or inquiries regarding this project, feel free to reach out:
+  - Email     : pauljohnson2094@gmail.com
+  - LinkedIn  : www.linkedin.com/in/pauljohnson2094
+  - GitHub    : https://github.com/pauljohnson20
